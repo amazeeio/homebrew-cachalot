@@ -1,10 +1,7 @@
-DINGHY_VERSION='4.1.0'
-
 class Dinghy < Formula
   desc "faster, friendlier Docker on OS X"
   homepage "https://github.com/codekitchen/dinghy"
-  url "https://github.com/codekitchen/dinghy.git", :tag => "v#{DINGHY_VERSION}"
-  version DINGHY_VERSION
+  url "https://github.com/codekitchen/dinghy.git", :tag => "v4.1.0"
   head "https://github.com/codekitchen/dinghy.git", :branch => :master
 
   depends_on "unfs3"
