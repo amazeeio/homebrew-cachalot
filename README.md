@@ -4,4 +4,4 @@ This tap contains a formula to install [dinghy](https://github.com/codekitchen/d
 
 ## How do I install?
 
-Just `brew tap adrianfalleiro/dinghy` and then `brew install dinghy`.
+Just `brew tap codekitchen/dinghy` and then `brew install dinghy`.
