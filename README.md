@@ -1,7 +1,7 @@
-# Dinghy Homebrew Tap
+# AmazeeIO Cachalot Homebrew Tap
 
-This tap contains a formula to install [dinghy](https://github.com/codekitchen/dinghy).
+This tap contains a formula to install [cachalot](https://github.com/AmazeeIO/cachalot).
 
 ## How do I install?
 
-Just `brew tap codekitchen/dinghy` and then `brew install dinghy`. See [Dinghy's README.md](https://github.com/codekitchen/dinghy/blob/master/README.md) for full installation and usage instructions.
+Just `brew tap AmazeeIO/cachalot` and then `brew install cachalot`. See [Cachalot's README.md](https://github.com/AmazeeIO/cachalot/blob/master/README.md) for full installation and usage instructions.
