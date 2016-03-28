@@ -1,7 +1,7 @@
 class Cachalot < Formula
   desc "Local OS X Drupal Hosting based on Docker"
   homepage "https://github.com/AmazeeIO/cachalot"
-  url "https://github.com/AmazeeIO/cachalot.git", :tag => "v0.9.1", :revision => "9f47c3e9d1a3ff64c52d9fe9d9a37c5ffe367d1e"
+  url "https://github.com/AmazeeIO/cachalot.git", :tag => "v0.9.3", :revision => "6e41bb25b2121f08d9a37b880fe21c24c27e886f"
   head "https://github.com/AmazeeIO/cachalot.git", :branch => :master
 
   depends_on "unfs3"
