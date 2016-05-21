@@ -10,6 +10,7 @@ class Cachalot < Formula
   def install
     bin.install "bin/amazeeio-cachalot"
     bin.install "bin/_amazeeio-cachalot_command"
+    bin.install "bin/cachalot"
     prefix.install "cli"
   end
 
