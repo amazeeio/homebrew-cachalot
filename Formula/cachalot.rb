@@ -4,7 +4,7 @@ class Cachalot < Formula
   url "https://github.com/AmazeeIO/cachalot.git", :tag => "v0.11.2", :revision => "3fce909c8812093483a1f3ffd788f2269bfe20cf"
   head "https://github.com/AmazeeIO/cachalot.git", :branch => :master
 
-  depends_on "boneyard/unfs3"
+  depends_on "homebrew/boneyard/unfs3"
   depends_on "dnsmasq"
 
   def install
