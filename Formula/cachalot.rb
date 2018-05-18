@@ -14,7 +14,7 @@ class Cachalot < Formula
     prefix.install "cli"
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<~EOS
     Run `amazeeio-cachalot create` to create the VM, then `amazeeio-cachalot up` to bring up the VM and services.
     EOS
   end
