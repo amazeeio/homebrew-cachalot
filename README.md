@@ -1,3 +1,6 @@
+# Deprecated
+Please use [pygmy](https://github.com/amazeeio/pygmy)
+
 # AmazeeIO Cachalot Homebrew Tap
 
 This tap contains a formula to install [cachalot](https://github.com/AmazeeIO/cachalot).
